@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dedomil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aditya.is-a.dev
+  * I am dedomil (https://keybase.io/dedomil) on keybase.
+  * I have a public key ASBHUB_3s9b5KApBvPOOVE3SNXUFr4HOkN6gjzbfd5OApAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e3da0db056fd69876e88c8fbb979a52e01e6476c996d1d36e47a78c7ee7cdc00a",
+      "host": "keybase.io",
+      "kid": "012047501ff7b3d6f9280a41bcf38e544dd2357505af81ce90dea08f36df779380a40a",
+      "uid": "e01fb2c5ff8560614c68446f207c7819",
+      "username": "dedomil"
+    },
+    "merkle_root": {
+      "ctime": 1670769091,
+      "hash": "65d44fdd0820d6a51035f9c04db7cf89d518c5ed88b9274a1b358c77c05a89defb6b02cd5dc8a434bb445f5cbd294aa993d188c93914584838befaed735aba9f",
+      "hash_meta": "125fcf203552064e428d72310b457a0add4f99eae5ef992db4f334fff11c6b6b",
+      "seqno": 23698260
+    },
+    "service": {
+      "entropy": "9wiElmlAIWTv40RYqCe7gmsW",
+      "hostname": "aditya.is-a.dev",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1670769105,
+  "expire_in": 504576000,
+  "prev": "9304883ba5e76555015501baa5cff546376982d91f181723c65ed1b0d3a11e56",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR1Af97PW+SgKQbzzjlRN0jV1Ba+BzpDeoI8233eTgKQKp3BheWxvYWTESpcCKcQgkwSIO6XnZVUBVQG6pc/1RjdpgtkfGBcjxl7RsNOhHlbEIGtZ7kRghFtHOXsOaSgS56UdBXEN+Iwm0kWs5eOm9dOKAgHCo3NpZ8RA/GtVvSxpTyRQP29raurW+C09J5Cn7CQtfyqxKFqiSHKjHANV1Wu2xzBTVDpMaEDIRDlbIXiUrd/LOBJsFKKmAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBOYtJphujMLZcrQ0ZS2ox7AYs1LNL86uppOFs6/ApJmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dedomil
+
+==================================================================
