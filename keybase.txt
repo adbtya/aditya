@@ -4,7 +4,7 @@ https://keybase.io/dedomil
 
 I hereby claim:
 
-  * I am an admin of http://aditya.is-a.dev
+  * I am an admin of https://aditya.is-a.dev
   * I am dedomil (https://keybase.io/dedomil) on keybase.
   * I have a public key ASBHUB_3s9b5KApBvPOOVE3SNXUFr4HOkN6gjzbfd5OApAo
 
@@ -20,15 +20,15 @@ To do so, I am signing this object:
       "username": "dedomil"
     },
     "merkle_root": {
-      "ctime": 1670769091,
-      "hash": "65d44fdd0820d6a51035f9c04db7cf89d518c5ed88b9274a1b358c77c05a89defb6b02cd5dc8a434bb445f5cbd294aa993d188c93914584838befaed735aba9f",
-      "hash_meta": "125fcf203552064e428d72310b457a0add4f99eae5ef992db4f334fff11c6b6b",
-      "seqno": 23698260
+      "ctime": 1670769463,
+      "hash": "bd30a03e26ca617e305b5250154d4980db683933a22a5ded3e298f1017f0f33702e91a1ebceb0219766a303d3c54fbb8aef79d3c4b4f360ece68574968959e05",
+      "hash_meta": "c069fa4c8523615c108dec982a0d84c338efdbde2ebb3053b38c3d76a955f20e",
+      "seqno": 23698267
     },
     "service": {
-      "entropy": "9wiElmlAIWTv40RYqCe7gmsW",
+      "entropy": "8NbB8HNTK6CCcrk2/SS4FWEr",
       "hostname": "aditya.is-a.dev",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 2
@@ -37,16 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "6.0.1"
   },
-  "ctime": 1670769105,
+  "ctime": 1670769514,
   "expire_in": 504576000,
-  "prev": "9304883ba5e76555015501baa5cff546376982d91f181723c65ed1b0d3a11e56",
-  "seqno": 41,
+  "prev": "bccfb5dc1053b55fde6003d6764df2b7a213f9a32e069d478cc73f332894d42f",
+  "seqno": 42,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR1Af97PW+SgKQbzzjlRN0jV1Ba+BzpDeoI8233eTgKQKp3BheWxvYWTESpcCKcQgkwSIO6XnZVUBVQG6pc/1RjdpgtkfGBcjxl7RsNOhHlbEIGtZ7kRghFtHOXsOaSgS56UdBXEN+Iwm0kWs5eOm9dOKAgHCo3NpZ8RA/GtVvSxpTyRQP29raurW+C09J5Cn7CQtfyqxKFqiSHKjHANV1Wu2xzBTVDpMaEDIRDlbIXiUrd/LOBJsFKKmAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBOYtJphujMLZcrQ0ZS2ox7AYs1LNL86uppOFs6/ApJmo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR1Af97PW+SgKQbzzjlRN0jV1Ba+BzpDeoI8233eTgKQKp3BheWxvYWTESpcCKsQgvM+13BBTtV/eYAPWdk3yt6IT+aMuBp1HjMc/MyiU1C/EIFtg8hRLw83q5XU8Kz/4qe4nn1p56FRXlIRc0JdNUJEAAgHCo3NpZ8RAmu7OsxgM/PV0OZQoS+TPF7I4rkaMo7tIYuDwyDSfstDPHNmaNWKUMNEa2xW8s8hkyCU3u+5N325/Tjn1X3HuC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH3MKp1MBQsr96VVPT+YFIHBg8bK3ykHj116MduUzM0Vo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
